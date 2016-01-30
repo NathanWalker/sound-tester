@@ -1,0 +1,18 @@
+{
+  "nativescript": {
+    "id": "com.wwwalkerrun.soundtester",
+    "tns-ios": {
+      "version": "1.5.2"
+    }
+  },
+  "dependencies": {
+    "ezaudio": "file:plugins/ezaudio",
+    "nativescript-sound": "^1.0.4",
+    "tns-core-modules": "1.5.2"
+  },
+  "devDependencies": {
+    "nativescript-dev-typescript": "^0.2.3",
+    "shelljs": "^0.5.3",
+    "typescript": "^1.7.5"
+  }
+}

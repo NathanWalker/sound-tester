@@ -1,0 +1,7 @@
+hooks
+*.d.ts
+tsconfig.json
+app/*.js
+platforms
+node_modules
+.vscode
