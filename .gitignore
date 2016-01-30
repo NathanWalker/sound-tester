@@ -2,6 +2,6 @@ hooks
 *.d.ts
 tsconfig.json
 app/*.js
-platforms
+/platforms
 node_modules
 .vscode
